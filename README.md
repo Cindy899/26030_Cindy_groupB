@@ -285,6 +285,8 @@ SQL> COMMIT;
 Commit complete.  
 
 🖼️ Screenshots & ER Diagram
+![image](https://github.com/user-attachments/assets/8cfa5a70-f511-4f48-a48f-eeae79776333)
+
 
 
 
